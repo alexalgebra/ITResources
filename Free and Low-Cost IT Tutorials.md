@@ -24,12 +24,6 @@ I'm an information hoarder that finally decided to get all of my bookmarks in or
     
     *Last updated: 2/11/2026*
 
-* [Boot.dev]
-
-* [CodeAcademy]
-
-* 
-
 ### Python
 * [Future Coder](https://futurecoder.io/)
     Future Coder is an interactive beginner Python tutorial. It covers strings, variables, loops, if statements, lists, functions, boolean operators, and dictionaries. 
@@ -102,12 +96,9 @@ I'm an information hoarder that finally decided to get all of my bookmarks in or
 
     *Last updated: 2/11/2026*
 
-* [HackTheBox]
-
-* [Hack this Site]
-
 ## Networking
 
 * [Cisco Networking Academy](https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html)
 
 ## Data
+
