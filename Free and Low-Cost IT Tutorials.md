@@ -50,6 +50,12 @@ I'm an information hoarder that finally decided to get all of my bookmarks in or
 
     *Last updated: 2/11/2026*
 
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
+
+	This is a book by Al Sweigart, published through No Starch Press, but the book is available to read online for free at this link. There is also a companion workbook you can purchase or read online for free as well: Automate the Boring Stuff with Python Workbook. I have read a little bit of the book and I enjoyed it a lot; it's on my list to read the whole thing eventually. I haven't read any of the workbook yet, but I love things with practical exercises so I'm looking forward to that!
+
+	*Last updated: 2/24/2026*
+
 ## IT
 
 ### Security
@@ -93,8 +99,28 @@ I'm an information hoarder that finally decided to get all of my bookmarks in or
 
     *Last updated: 2/11/2026*
 
+*  [Hackers Arise](https://hackers-arise.com/getting-started/)
+	Hackers Arise is a site with lots of cybersecurity information, tutorials, and courses. The site has different membership tiers to join if you want full access to all of the video courses, but a lot of written content is available on the site for free. They have tutorials for tons of security topics from the foundations to advanced. I haven't messed around on here too much, but I have the book listed below (Linux Basics for Hackers) and found it quite useful and informative.
+
+	*Last updated: 2/24/2026*
+
+* [Linux Basics for Hackers](https://hackers-arise.com/getting-started/linux-for-hackers/)
+
+	This is a book by No Starch press, written by occupytheweb, that is available to read for free on their website. I'm listing this separately from the rest of the website because it is a good book on its own. I have a physical copy and have read through about half of it.
+
+	*Last updated: 2/24/2026*
+
+* [Hacks, Leaks, and Revelations](https://hacksandleaks.com/contents.html)
+
+	This is another book from No Starch Press. If you're sensing a trend here...a lot of the authors from this publisher put their books online for free. I'm just listing a few because I've actually read them, but definitely take a look for the author's website if you find one that calls to you.
+
+	I LOVE this book! I saw the author speak at BSidesPDX 2023, just before the book came out, and was mesmerized. (The talk is [on YouTube](https://youtu.be/3p7I1qRYjOs), if you want to watch!) It is a full primer on how to use Python, data science, and hacking tricks to parse through big public leaks and find newsworthy trends and information. It focuses on BlueLeaks as a dataset to practice on, but there are lots of recent leaks that this could be applied to as well.
+
+	*Last updated: 2/24/2026*
+
 ## Networking
 
 * [Cisco Networking Academy](https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html)
+
 
 
