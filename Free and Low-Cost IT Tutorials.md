@@ -52,9 +52,6 @@ I'm an information hoarder that finally decided to get all of my bookmarks in or
 
 ## IT
 
-### General
-
-
 ### Security
 
 * [TryHackMe](https://tryhackme.com/)
@@ -100,5 +97,4 @@ I'm an information hoarder that finally decided to get all of my bookmarks in or
 
 * [Cisco Networking Academy](https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html)
 
-## Data
 
