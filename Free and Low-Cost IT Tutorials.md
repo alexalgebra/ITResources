@@ -118,6 +118,12 @@ I'm an information hoarder that finally decided to get all of my bookmarks in or
 
 	*Last updated: 2/24/2026*
 
+* [CTFtime Calendar](https://ctftime.org/calendar/)
+ 
+    This has a calendar of lots of different CTF competitions online. Even if you don't know much yet, doing CTFs can help you learn a lot. I've done several where I could only solve 0-2 of the puzzles, but I still had fun and used a lot of new skills and apps. After the competitions, people usually will do writeups or YouTube videos explaining the puzzle solutions, which I highly recommend you read or watch for further understanding of the topics.
+
+  *Last updated: 7/21/2026*
+
 ## Networking
 
 * [Cisco Networking Academy](https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html)
